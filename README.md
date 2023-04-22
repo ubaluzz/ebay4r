@@ -1,1 +1,1 @@
-Add TorchScript Docs Integrations Page (#8501)
+Mkdocs annotations fixes (#7600)
