@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Remove unused variables (#8511)
