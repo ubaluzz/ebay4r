@@ -1,1 +1,1 @@
-Update fraction arg to employ a random selection (#8234)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
