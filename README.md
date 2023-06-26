@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Python refactorings and simplifications (#7549)
