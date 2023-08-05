@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Add missing single-line docstrings (#8362)
