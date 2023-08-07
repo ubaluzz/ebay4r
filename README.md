@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Fix Multi-GPU resume bug (#7328)
