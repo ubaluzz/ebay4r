@@ -1,1 +1,1 @@
-fix predict with class filter
+Update IoU capitalization (#8604)
