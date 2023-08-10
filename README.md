@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
