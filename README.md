@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Use pathlib in DOTA ops (#7552)
