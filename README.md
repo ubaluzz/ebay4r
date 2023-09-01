@@ -1,1 +1,1 @@
-Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
+Hold failed upload metrics and upload with next upload metrics (#8513)
