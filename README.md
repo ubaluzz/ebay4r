@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Capitalize OBB acronym (#7383)
