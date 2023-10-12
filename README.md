@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Updating a typo on paddlepaddle.md (#9108)
