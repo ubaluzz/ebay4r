@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+YOLOv8 INT8 TFLite Inference Example (#7317)
