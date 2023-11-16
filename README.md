@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
