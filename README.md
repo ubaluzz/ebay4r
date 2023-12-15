@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add NCNN Docs Integrations Page (#8562)
