@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+ultralytics 8.0.228 add training time argument (#7054)
