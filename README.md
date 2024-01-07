@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+ultralytics 8.1.25 OpenVINO LATENCY and THROUGHPUT modes (#8058)
