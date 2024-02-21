@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
