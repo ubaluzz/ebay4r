@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
