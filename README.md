@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Add C++ Classify inference example (#6868)
