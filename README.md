@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Move Explorer tests to scheduled CI (#8305)
