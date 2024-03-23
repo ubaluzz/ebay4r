@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Update Docs Home and Neural Magic pages (#7243)
