@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
