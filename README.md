@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
