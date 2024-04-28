@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add type hinting to explorer.py (#7388)
