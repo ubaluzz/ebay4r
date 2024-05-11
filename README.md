@@ -1,1 +1,1 @@
-Segment TensorRT batch=3 fix (#7952)
+Object Counter improvements (#8648)
