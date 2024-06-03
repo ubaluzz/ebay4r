@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
