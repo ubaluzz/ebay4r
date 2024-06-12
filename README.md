@@ -1,1 +1,1 @@
-Locked Tabs - Adds a lock switch to every tab inside the tab switcher that, when enabled, prevents the specific tab from being closed until the switch is disabled again
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
