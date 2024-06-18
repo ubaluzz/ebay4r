@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add simple-utilities.md Docs page (#8269)
