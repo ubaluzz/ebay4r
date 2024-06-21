@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
