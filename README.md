@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Add quantization support to TensorFlow.js converter (#7008)
