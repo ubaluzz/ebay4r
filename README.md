@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+Clean up unused imgsz (#7771)
