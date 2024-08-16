@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
