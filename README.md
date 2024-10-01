@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Updated SQL Query Plot Code (#8120)
