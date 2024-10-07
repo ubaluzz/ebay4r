@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Updated SQL Query Plot Code (#8120)
