@@ -1,1 +1,1 @@
-Add plot_images conf_thresh parameter (#8446)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
