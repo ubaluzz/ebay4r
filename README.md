@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+TensorRT FP16 export with dynamic=True (#7870)
