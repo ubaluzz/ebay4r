@@ -1,1 +1,1 @@
-Fix names bug when exporting YOLOv8-World to ONNX (#8941)
+Fix xyxyxyxyn calculation, swap axis (#8249)
